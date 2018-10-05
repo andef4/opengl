@@ -1,0 +1,6 @@
+# place exclude patterns here
+
+.*DS_Store
+bin
+build
+
